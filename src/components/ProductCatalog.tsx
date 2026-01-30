@@ -9,7 +9,6 @@ import {
   getUniqueCategories,
   getUniqueModels,
   getYearRange,
-  Product,
 } from '../data/products';
 import InventoryIcon from '@mui/icons-material/Inventory';
 import RestartAltIcon from '@mui/icons-material/RestartAlt';
